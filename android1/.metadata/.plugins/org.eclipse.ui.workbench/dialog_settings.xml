@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+    <section name="WorkbenchPreferenceDialogSettings">
+        <item key="DIALOG_Y_ORIGIN" value="9" />
+        <item key="DIALOG_X_ORIGIN" value="187" />
+    </section>
+    <section name="org.eclipse.ui.internal.QuickAccess">
+        <item key="dialogHeight" value="640" />
+        <item key="dialogWidth" value="800" />
+        <list key="textEntries"></list>
+        <list key="orderedElements"></list>
+        <list key="orderedProviders"></list>
+        <list key="textArray"></list>
+    </section>
+    <section name="ImportExportAction">
+        <item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"
+            value="com.android.ide.eclipse.adt.project.ImportProjectWizard" />
+        <list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+            <item value="com.android.ide.eclipse.wizards.category" />
+        </list>
+    </section>
+</section>
